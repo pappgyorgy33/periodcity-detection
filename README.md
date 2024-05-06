@@ -15,4 +15,4 @@ If you don't have these install them with pip or conda before running the code.
 
 You can find a test and it's results in the test.ipynb file. In this file I also described in more detail the idea behind the method I am using and why it is useful and working. 
 
-To see this simply download the endu.csv file and the test.ipynb file. Open it and check the results, rerun certain cells if you want to.
+To see this simply download the test.ipynb file. Open it and check the results. Note that if you want to rerun certain cells you will need an example data. Thw one I am using in my test is bigger than 25 MB so I cannot upload it here but if you want to try out the test for yourself reach out to me in email and I will happily provide you the data I was using. papp.gyorgy.szabolcs@gmail.com
