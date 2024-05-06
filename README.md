@@ -4,4 +4,9 @@ A code to slice a given data into n laps based on the autocorrelation and local 
 numpy, pandas, scipy, csv. 
 If you don't have these install them with pip or conda before running the code.
 
-## 
+## Setup and running the code:
+1. Put the csv file you want to slice up and the code file in the same folder
+
+2. Change the path and n variables at the end of the file as needed according to the comments
+
+3. Run the python file and you will have a smaller csv for each lap.
