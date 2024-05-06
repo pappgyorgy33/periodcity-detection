@@ -11,6 +11,8 @@ If you don't have these install them with pip or conda before running the code.
 
 3. Run the python file and you will have a smaller csv for each lap.
 
+Note that the code only works for a certain type of csv file generated bx MaxxECU engine management, with the speific column names used in the code
+
 ## Test run and details
 
 You can find a test and it's results in the test.ipynb file. In this file I also described in more detail the idea behind the method I am using and why it is useful and working. 
